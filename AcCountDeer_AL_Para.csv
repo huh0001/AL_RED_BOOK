@@ -1,59 +1,211 @@
-"Variable_Name","Value","County"
-"Preharvest Population",75000,"Jackson"
-"Sex Ratio: Doe",130,"Jackson"
-"Sex Ratio: Buck",100,"Jackson"
-"Adult Proportion",0.51,"Jackson"
-"Young Adult (y1) Proportion",0.04,"Jackson"
-"Yearling Proportion",0.2,"Jackson"
-"Fawn Proportion",0.25,"Jackson"
-"Adult Pregnancy Rate",1.6,"Jackson"
-"Yearling Pregnancy Rate",0.2,"Jackson"
-"Antlered Harvest",5693,"Jackson"
-"Antlerless Harvest",4822,"Jackson"
-"Yearling Harvest Rate: Male",0.11,"Jackson"
-"Yearling Harvest Rate: Female",0.18,"Jackson"
-"Fawn Harvest Rate",0.12,"Jackson"
-"Adult Male_nhm",0.3,"Jackson"
-"Adult Female_nhm",0.22,"Jackson"
-"Yearling Male_nhm",0.25,"Jackson"
-"Yearling Female_nhm",0.125,"Jackson"
-"Fawn Male_nhm",0.49,"Jackson"
-"Fawn Female_nhm",0.5,"Jackson"
-"6 month Fawn_nhm",0.4,"Jackson"
-"Adult Male_harvest",4864.0992,"Jackson"
-"Adult Female_harvest",3240.384,"Jackson"
-"Young Adult Male_harvest",202.6708,"Jackson"
-"Young Adult Female_harvest",135.016,"Jackson"
-"Yearling Male_harvest",626.23,"Jackson"
-"Yearling Female_harvest",867.96,"Jackson"
-"Fawn Male_harvest",289.32,"Jackson"
-"Fawn Female_harvest",289.32,"Jackson"
-"Preharvest Population",50000,"Autauga"
-"Sex Ratio: Doe",130,"Autauga"
-"Sex Ratio: Buck",100,"Autauga"
-"Adult Proportion",0.51,"Autauga"
-"Young Adult (y1) Proportion",0.04,"Autauga"
-"Yearling Proportion",0.2,"Autauga"
-"Fawn Proportion",0.25,"Autauga"
-"Adult Pregnancy Rate",1.6,"Autauga"
-"Yearling Pregnancy Rate",0.2,"Autauga"
-"Antlered Harvest",1766,"Autauga"
-"Antlerless Harvest",5086,"Autauga"
-"Yearling Harvest Rate: Male",0.11,"Autauga"
-"Yearling Harvest Rate: Female",0.18,"Autauga"
-"Fawn Harvest Rate",0.12,"Autauga"
-"Adult Male_nhm",0.295,"Autauga"
-"Adult Female_nhm",0.2,"Autauga"
-"Yearling Male_nhm",0.25,"Autauga"
-"Yearling Female_nhm",0.15,"Autauga"
-"Fawn Male_nhm",0.49,"Autauga"
-"Fawn Female_nhm",0.4,"Autauga"
-"6 month Fawn_nhm",0.35,"Autauga"
-"Adult Male_harvest",1508.8704,"Autauga"
-"Adult Female_harvest",3417.792,"Autauga"
-"Young Adult Male_harvest",62.8696,"Autauga"
-"Young Adult Female_harvest",142.408,"Autauga"
-"Yearling Male_harvest",194.26,"Autauga"
-"Yearling Female_harvest",915.48,"Autauga"
-"Fawn Male_harvest",305.16,"Autauga"
-"Fawn Female_harvest",305.16,"Autauga"
+Variable_Name,Value,County
+Preharvest Population,65000,Jackson
+Sex Ratio: Doe,130,Jackson
+Sex Ratio: Buck,100,Jackson
+Adult Proportion,0.51,Jackson
+Young Adult (y1) Proportion,0.04,Jackson
+Yearling Proportion,0.2,Jackson
+Fawn Proportion,0.25,Jackson
+Adult Pregnancy Rate,1.6,Jackson
+Yearling Pregnancy Rate,0.2,Jackson
+Antlered Harvest,5693,Jackson
+Antlerless Harvest,4822,Jackson
+Yearling Harvest Rate: Male,0.11,Jackson
+Yearling Harvest Rate: Female,0.18,Jackson
+Fawn Harvest Rate,0.12,Jackson
+Adult Male_nhm,0.3,Jackson
+Adult Female_nhm,0.22,Jackson
+Yearling Male_nhm,0.25,Jackson
+Yearling Female_nhm,0.125,Jackson
+Fawn Male_nhm,0.49,Jackson
+Fawn Female_nhm,0.5,Jackson
+6 month Fawn_nhm,0.4,Jackson
+Preharvest Population,50000,Autauga
+Sex Ratio: Doe,130,Autauga
+Sex Ratio: Buck,100,Autauga
+Adult Proportion,0.51,Autauga
+Young Adult (y1) Proportion,0.04,Autauga
+Yearling Proportion,0.2,Autauga
+Fawn Proportion,0.25,Autauga
+Adult Pregnancy Rate,1.6,Autauga
+Yearling Pregnancy Rate,0.2,Autauga
+Antlered Harvest,1766,Autauga
+Antlerless Harvest,5086,Autauga
+Yearling Harvest Rate: Male,0.11,Autauga
+Yearling Harvest Rate: Female,0.18,Autauga
+Fawn Harvest Rate,0.12,Autauga
+Adult Male_nhm,0.295,Autauga
+Adult Female_nhm,0.2,Autauga
+Yearling Male_nhm,0.25,Autauga
+Yearling Female_nhm,0.15,Autauga
+Fawn Male_nhm,0.49,Autauga
+Fawn Female_nhm,0.4,Autauga
+6 month Fawn_nhm,0.35,Autauga
+Preharvest Population,65000,Baldwin
+Sex Ratio: Doe,130,Baldwin
+Sex Ratio: Buck,100,Baldwin
+Adult Proportion,0.51,Baldwin
+Young Adult (y1) Proportion,0.04,Baldwin
+Yearling Proportion,0.2,Baldwin
+Fawn Proportion,0.25,Baldwin
+Adult Pregnancy Rate,1.6,Baldwin
+Yearling Pregnancy Rate,0.2,Baldwin
+Antlered Harvest,4495,Baldwin
+Antlerless Harvest,6968,Baldwin
+Yearling Harvest Rate: Male,0.11,Baldwin
+Yearling Harvest Rate: Female,0.18,Baldwin
+Fawn Harvest Rate,0.12,Baldwin
+Adult Male_nhm,0.295,Baldwin
+Adult Female_nhm,0.175,Baldwin
+Yearling Male_nhm,0.25,Baldwin
+Yearling Female_nhm,0.175,Baldwin
+Fawn Male_nhm,0.49,Baldwin
+Fawn Female_nhm,0.4,Baldwin
+6 month Fawn_nhm,0.35,Baldwin
+Preharvest Population,50000,Barbour
+Sex Ratio: Doe,130,Barbour
+Sex Ratio: Buck,100,Barbour
+Adult Proportion,0.51,Barbour
+Young Adult (y1) Proportion,0.04,Barbour
+Yearling Proportion,0.2,Barbour
+Fawn Proportion,0.25,Barbour
+Adult Pregnancy Rate,1.6,Barbour
+Yearling Pregnancy Rate,0.2,Barbour
+Antlered Harvest,3626,Barbour
+Antlerless Harvest,3152,Barbour
+Yearling Harvest Rate: Male,0.11,Barbour
+Yearling Harvest Rate: Female,0.18,Barbour
+Fawn Harvest Rate,0.12,Barbour
+Adult Male_nhm,0.29,Barbour
+Adult Female_nhm,0.184,Barbour
+Yearling Male_nhm,0.19,Barbour
+Yearling Female_nhm,0.175,Barbour
+Fawn Male_nhm,0.49,Barbour
+Fawn Female_nhm,0.55,Barbour
+6 month Fawn_nhm,0.5,Barbour
+Preharvest Population,25000,Bibb
+Sex Ratio: Doe,130,Bibb
+Sex Ratio: Buck,100,Bibb
+Adult Proportion,0.51,Bibb
+Young Adult (y1) Proportion,0.04,Bibb
+Yearling Proportion,0.2,Bibb
+Fawn Proportion,0.25,Bibb
+Adult Pregnancy Rate,1.6,Bibb
+Yearling Pregnancy Rate,0.2,Bibb
+Antlered Harvest,1312,Bibb
+Antlerless Harvest,2261,Bibb
+Yearling Harvest Rate: Male,0.11,Bibb
+Yearling Harvest Rate: Female,0.18,Bibb
+Fawn Harvest Rate,0.12,Bibb
+Adult Male_nhm,0.29,Bibb
+Adult Female_nhm,0.17,Bibb
+Yearling Male_nhm,0.2,Bibb
+Yearling Female_nhm,0.175,Bibb
+Fawn Male_nhm,0.49,Bibb
+Fawn Female_nhm,0.4,Bibb
+6 month Fawn_nhm,0.5,Bibb
+Preharvest Population,25000,Blount
+Sex Ratio: Doe,130,Blount
+Sex Ratio: Buck,100,Blount
+Adult Proportion,0.51,Blount
+Young Adult (y1) Proportion,0.04,Blount
+Yearling Proportion,0.2,Blount
+Fawn Proportion,0.25,Blount
+Adult Pregnancy Rate,1.6,Blount
+Yearling Pregnancy Rate,0.2,Blount
+Antlered Harvest,1713,Blount
+Antlerless Harvest,2079,Blount
+Yearling Harvest Rate: Male,0.11,Blount
+Yearling Harvest Rate: Female,0.18,Blount
+Fawn Harvest Rate,0.12,Blount
+Adult Male_nhm,0.25,Blount
+Adult Female_nhm,0.175,Blount
+Yearling Male_nhm,0.18,Blount
+Yearling Female_nhm,0.175,Blount
+Fawn Male_nhm,0.49,Blount
+Fawn Female_nhm,0.45,Blount
+6 month Fawn_nhm,0.5,Blount
+Preharvest Population,50000,Bullock
+Sex Ratio: Doe,130,Bullock
+Sex Ratio: Buck,100,Bullock
+Adult Proportion,0.51,Bullock
+Young Adult (y1) Proportion,0.04,Bullock
+Yearling Proportion,0.2,Bullock
+Fawn Proportion,0.25,Bullock
+Adult Pregnancy Rate,1.6,Bullock
+Yearling Pregnancy Rate,0.2,Bullock
+Antlered Harvest,2486,Bullock
+Antlerless Harvest,5206,Bullock
+Yearling Harvest Rate: Male,0.11,Bullock
+Yearling Harvest Rate: Female,0.18,Bullock
+Fawn Harvest Rate,0.12,Bullock
+Adult Male_nhm,0.3,Bullock
+Adult Female_nhm,0.1775,Bullock
+Yearling Male_nhm,0.18,Bullock
+Yearling Female_nhm,0.17,Bullock
+Fawn Male_nhm,0.49,Bullock
+Fawn Female_nhm,0.4,Bullock
+6 month Fawn_nhm,0.4,Bullock
+Preharvest Population,20000,Colbert
+Sex Ratio: Doe,130,Colbert
+Sex Ratio: Buck,100,Colbert
+Adult Proportion,0.51,Colbert
+Young Adult (y1) Proportion,0.04,Colbert
+Yearling Proportion,0.2,Colbert
+Fawn Proportion,0.25,Colbert
+Adult Pregnancy Rate,1.6,Colbert
+Yearling Pregnancy Rate,0.2,Colbert
+Antlered Harvest,1418,Colbert
+Antlerless Harvest,1422,Colbert
+Yearling Harvest Rate: Male,0.11,Colbert
+Yearling Harvest Rate: Female,0.18,Colbert
+Fawn Harvest Rate,0.12,Colbert
+Adult Male_nhm,0.3,Colbert
+Adult Female_nhm,0.183,Colbert
+Yearling Male_nhm,0.18,Colbert
+Yearling Female_nhm,0.18,Colbert
+Fawn Male_nhm,0.49,Colbert
+Fawn Female_nhm,0.51,Colbert
+6 month Fawn_nhm,0.502,Colbert
+Preharvest Population,30000,Lauderdale
+Sex Ratio: Doe,130,Lauderdale
+Sex Ratio: Buck,100,Lauderdale
+Adult Proportion,0.51,Lauderdale
+Young Adult (y1) Proportion,0.04,Lauderdale
+Yearling Proportion,0.2,Lauderdale
+Fawn Proportion,0.25,Lauderdale
+Adult Pregnancy Rate,1.6,Lauderdale
+Yearling Pregnancy Rate,0.2,Lauderdale
+Antlered Harvest,2305,Lauderdale
+Antlerless Harvest,2189,Lauderdale
+Yearling Harvest Rate: Male,0.11,Lauderdale
+Yearling Harvest Rate: Female,0.18,Lauderdale
+Fawn Harvest Rate,0.12,Lauderdale
+Adult Male_nhm,0.35,Lauderdale
+Adult Female_nhm,0.2,Lauderdale
+Yearling Male_nhm,0.16,Lauderdale
+Yearling Female_nhm,0.12,Lauderdale
+Fawn Male_nhm,0.47,Lauderdale
+Fawn Female_nhm,0.47,Lauderdale
+6 month Fawn_nhm,0.49,Lauderdale
+Preharvest Population,30000,Lee
+Sex Ratio: Doe,130,Lee
+Sex Ratio: Buck,100,Lee
+Adult Proportion,0.51,Lee
+Young Adult (y1) Proportion,0.04,Lee
+Yearling Proportion,0.2,Lee
+Fawn Proportion,0.25,Lee
+Adult Pregnancy Rate,1.6,Lee
+Yearling Pregnancy Rate,0.2,Lee
+Antlered Harvest,1764,Lee
+Antlerless Harvest,2503,Lee
+Yearling Harvest Rate: Male,0.11,Lee
+Yearling Harvest Rate: Female,0.18,Lee
+Fawn Harvest Rate,0.12,Lee
+Adult Male_nhm,0.3,Lee
+Adult Female_nhm,0.2,Lee
+Yearling Male_nhm,0.18,Lee
+Yearling Female_nhm,0.12,Lee
+Fawn Male_nhm,0.43,Lee
+Fawn Female_nhm,0.44,Lee
+6 month Fawn_nhm,0.47,Lee
